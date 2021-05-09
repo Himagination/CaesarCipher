@@ -39,4 +39,4 @@ while should_continue:
     result = input("Type 'yes' if you want to go again. Otherwise type 'no'.\n")
     if result == "no":
         should_continue = False
-        print("Goodby")
+        print("Goodbye Mars")
